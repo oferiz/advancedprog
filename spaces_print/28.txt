@@ -1,0 +1,21 @@
+Amount: 2
+
+vec1: 0001101
+vec2: 0010111
+vec3: 0100011
+vec4: 0011010
+vec5: 0110100
+vec6: 0101110
+vec7: 0111001
+(Together with all of its 7 shifts)
+Degree of the node in the graph: 114
+
+vec1: 0001011
+vec2: 0010110
+vec3: 0100111
+vec4: 0011101
+vec5: 0110001
+vec6: 0101100
+vec7: 0111010
+(Together with all of its 7 shifts)
+Degree of the node in the graph: 114

@@ -1,0 +1,19 @@
+Amount: 2
+
+vec1: 0010111
+vec2: 0101110
+vec3: 1001011
+vec4: 0111001
+vec5: 1100101
+vec6: 1011100
+vec7: 1110010
+Degree of the node in the graph: 30
+
+vec1: 0011101
+vec2: 0100111
+vec3: 1001110
+vec4: 0111010
+vec5: 1101001
+vec6: 1010011
+vec7: 1110100
+Degree of the node in the graph: 30

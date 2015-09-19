@@ -1,0 +1,631 @@
+Amount: 63
+
+vec1: 0000011
+vec2: 0000101
+vec3: 1111001
+vec4: 0000110
+vec5: 1111100
+vec6: 1111010
+vec7: 1111111
+(Together with all of its 7 shifts)
+Degree of the node in the graph: 161
+
+vec1: 0000111
+vec2: 0001001
+vec3: 1110001
+vec4: 0001110
+vec5: 1111000
+vec6: 1110110
+vec7: 1111111
+(Together with all of its 7 shifts)
+Degree of the node in the graph: 161
+
+vec1: 0000011
+vec2: 0010001
+vec3: 1101101
+vec4: 0010010
+vec5: 1111100
+vec6: 1101110
+vec7: 1111111
+(Together with all of its 7 shifts)
+Degree of the node in the graph: 161
+
+vec1: 0000001
+vec2: 0110010
+vec3: 1001100
+vec4: 0110011
+vec5: 1111110
+vec6: 1001101
+vec7: 1111111
+(Together with all of its 7 shifts)
+Degree of the node in the graph: 161
+
+vec1: 0000111
+vec2: 0101010
+vec3: 1010010
+vec4: 0101101
+vec5: 1111000
+vec6: 1010101
+vec7: 1111111
+(Together with all of its 7 shifts)
+Degree of the node in the graph: 161
+
+vec1: 0000101
+vec2: 0001010
+vec3: 1110000
+vec4: 0001111
+vec5: 1111010
+vec6: 1110101
+vec7: 1111111
+(Together with all of its 7 shifts)
+Degree of the node in the graph: 161
+
+vec1: 0000001
+vec2: 0000010
+vec3: 1111100
+vec4: 0000011
+vec5: 1111110
+vec6: 1111101
+vec7: 1111111
+(Together with all of its 7 shifts)
+Degree of the node in the graph: 161
+
+vec1: 0000101
+vec2: 0110011
+vec3: 1001001
+vec4: 0110110
+vec5: 1111010
+vec6: 1001100
+vec7: 1111111
+(Together with all of its 7 shifts)
+Degree of the node in the graph: 161
+
+vec1: 0000011
+vec2: 0001100
+vec3: 1110000
+vec4: 0001111
+vec5: 1111100
+vec6: 1110011
+vec7: 1111111
+(Together with all of its 7 shifts)
+Degree of the node in the graph: 161
+
+vec1: 0001001
+vec2: 0010010
+vec3: 1100100
+vec4: 0011011
+vec5: 1110110
+vec6: 1101101
+vec7: 1111111
+(Together with all of its 7 shifts)
+Degree of the node in the graph: 161
+
+vec1: 0001001
+vec2: 0100010
+vec3: 1010100
+vec4: 0101011
+vec5: 1110110
+vec6: 1011101
+vec7: 1111111
+(Together with all of its 7 shifts)
+Degree of the node in the graph: 161
+
+vec1: 0000101
+vec2: 0010001
+vec3: 1101011
+vec4: 0010100
+vec5: 1111010
+vec6: 1101110
+vec7: 1111111
+(Together with all of its 7 shifts)
+Degree of the node in the graph: 161
+
+vec1: 0000011
+vec2: 0101001
+vec3: 1010101
+vec4: 0101010
+vec5: 1111100
+vec6: 1010110
+vec7: 1111111
+(Together with all of its 7 shifts)
+Degree of the node in the graph: 161
+
+vec1: 0000001
+vec2: 0101010
+vec3: 1010100
+vec4: 0101011
+vec5: 1111110
+vec6: 1010101
+vec7: 1111111
+(Together with all of its 7 shifts)
+Degree of the node in the graph: 161
+
+vec1: 0010011
+vec2: 0100101
+vec3: 1001001
+vec4: 0110110
+vec5: 1101100
+vec6: 1011010
+vec7: 1111111
+(Together with all of its 7 shifts)
+Degree of the node in the graph: 161
+
+vec1: 0000001
+vec2: 0001110
+vec3: 1110000
+vec4: 0001111
+vec5: 1111110
+vec6: 1110001
+vec7: 1111111
+(Together with all of its 7 shifts)
+Degree of the node in the graph: 161
+
+vec1: 0000111
+vec2: 0011001
+vec3: 1100001
+vec4: 0011110
+vec5: 1111000
+vec6: 1100110
+vec7: 1111111
+(Together with all of its 7 shifts)
+Degree of the node in the graph: 161
+
+vec1: 0000101
+vec2: 0101000
+vec3: 1010010
+vec4: 0101101
+vec5: 1111010
+vec6: 1010111
+vec7: 1111111
+(Together with all of its 7 shifts)
+Degree of the node in the graph: 161
+
+vec1: 0000001
+vec2: 0001000
+vec3: 1110110
+vec4: 0001001
+vec5: 1111110
+vec6: 1110111
+vec7: 1111111
+(Together with all of its 7 shifts)
+Degree of the node in the graph: 161
+
+vec1: 0000011
+vec2: 0011000
+vec3: 1100100
+vec4: 0011011
+vec5: 1111100
+vec6: 1100111
+vec7: 1111111
+(Together with all of its 7 shifts)
+Degree of the node in the graph: 161
+
+vec1: 0000001
+vec2: 0000100
+vec3: 1111010
+vec4: 0000101
+vec5: 1111110
+vec6: 1111011
+vec7: 1111111
+(Together with all of its 7 shifts)
+Degree of the node in the graph: 161
+
+vec1: 0000001
+vec2: 0000100
+vec3: 0010000
+vec4: 0000101
+vec5: 0010100
+vec6: 0010001
+vec7: 0010101
+(Together with all of its 7 shifts)
+Degree of the node in the graph: 163
+
+vec1: 0000001
+vec2: 0000010
+vec3: 0010000
+vec4: 0000011
+vec5: 0010010
+vec6: 0010001
+vec7: 0010011
+(Together with all of its 7 shifts)
+Degree of the node in the graph: 163
+
+vec1: 0000111
+vec2: 0001001
+vec3: 1110000
+vec4: 0001110
+vec5: 1111001
+vec6: 1110111
+vec7: 1111110
+(Together with all of its 7 shifts)
+Degree of the node in the graph: 163
+
+vec1: 0001001
+vec2: 0110101
+vec3: 1010110
+vec4: 0111100
+vec5: 1100011
+vec6: 1011111
+vec7: 1101010
+(Together with all of its 7 shifts)
+Degree of the node in the graph: 163
+
+vec1: 0000011
+vec2: 0111100
+vec3: 1000100
+vec4: 0111111
+vec5: 1111000
+vec6: 1000111
+vec7: 1111011
+(Together with all of its 7 shifts)
+Degree of the node in the graph: 163
+
+vec1: 0000101
+vec2: 0011001
+vec3: 1001001
+vec4: 0011100
+vec5: 1010000
+vec6: 1001100
+vec7: 1010101
+(Together with all of its 7 shifts)
+Degree of the node in the graph: 163
+
+vec1: 0000101
+vec2: 0001010
+vec3: 0010001
+vec4: 0001111
+vec5: 0011011
+vec6: 0010100
+vec7: 0011110
+(Together with all of its 7 shifts)
+Degree of the node in the graph: 163
+
+vec1: 0000101
+vec2: 0110011
+vec3: 1001010
+vec4: 0110110
+vec5: 1111001
+vec6: 1001111
+vec7: 1111100
+(Together with all of its 7 shifts)
+Degree of the node in the graph: 163
+
+vec1: 0001001
+vec2: 0010010
+vec3: 1100011
+vec4: 0011011
+vec5: 1110001
+vec6: 1101010
+vec7: 1111000
+(Together with all of its 7 shifts)
+Degree of the node in the graph: 163
+
+vec1: 0001001
+vec2: 0010010
+vec3: 0100100
+vec4: 0011011
+vec5: 0110110
+vec6: 0101101
+vec7: 0111111
+(Together with all of its 7 shifts)
+Degree of the node in the graph: 163
+
+vec1: 0000011
+vec2: 0010001
+vec3: 1101100
+vec4: 0010010
+vec5: 1111101
+vec6: 1101111
+vec7: 1111110
+(Together with all of its 7 shifts)
+Degree of the node in the graph: 163
+
+vec1: 0000011
+vec2: 0111000
+vec3: 1010101
+vec4: 0111011
+vec5: 1101101
+vec6: 1010110
+vec7: 1101110
+(Together with all of its 7 shifts)
+Degree of the node in the graph: 163
+
+vec1: 0001001
+vec2: 0100110
+vec3: 1010111
+vec4: 0101111
+vec5: 1110001
+vec6: 1011110
+vec7: 1111000
+(Together with all of its 7 shifts)
+Degree of the node in the graph: 163
+
+vec1: 0000011
+vec2: 0001100
+vec3: 0100101
+vec4: 0001111
+vec5: 0101001
+vec6: 0100110
+vec7: 0101010
+(Together with all of its 7 shifts)
+Degree of the node in the graph: 163
+
+vec1: 0000111
+vec2: 0001001
+vec3: 0010010
+vec4: 0001110
+vec5: 0011011
+vec6: 0010101
+vec7: 0011100
+(Together with all of its 7 shifts)
+Degree of the node in the graph: 163
+
+vec1: 0000101
+vec2: 0110011
+vec3: 1001000
+vec4: 0110110
+vec5: 1111011
+vec6: 1001101
+vec7: 1111110
+(Together with all of its 7 shifts)
+Degree of the node in the graph: 163
+
+vec1: 0000101
+vec2: 0011011
+vec3: 1100011
+vec4: 0011110
+vec5: 1111000
+vec6: 1100110
+vec7: 1111101
+(Together with all of its 7 shifts)
+Degree of the node in the graph: 163
+
+vec1: 0000101
+vec2: 0110010
+vec3: 1001001
+vec4: 0110111
+vec5: 1111011
+vec6: 1001100
+vec7: 1111110
+(Together with all of its 7 shifts)
+Degree of the node in the graph: 163
+
+vec1: 0000111
+vec2: 0011011
+vec3: 1100001
+vec4: 0011100
+vec5: 1111010
+vec6: 1100110
+vec7: 1111101
+(Together with all of its 7 shifts)
+Degree of the node in the graph: 163
+
+vec1: 0000001
+vec2: 0111100
+vec3: 1010110
+vec4: 0111101
+vec5: 1101010
+vec6: 1010111
+vec7: 1101011
+(Together with all of its 7 shifts)
+Degree of the node in the graph: 163
+
+vec1: 0000011
+vec2: 0000101
+vec3: 0110000
+vec4: 0000110
+vec5: 0110101
+vec6: 0110011
+vec7: 0110110
+(Together with all of its 7 shifts)
+Degree of the node in the graph: 163
+
+vec1: 0000101
+vec2: 0011011
+vec3: 0101000
+vec4: 0011110
+vec5: 0110011
+vec6: 0101101
+vec7: 0110110
+(Together with all of its 7 shifts)
+Degree of the node in the graph: 163
+
+vec1: 0000011
+vec2: 0001100
+vec3: 1010101
+vec4: 0001111
+vec5: 1011001
+vec6: 1010110
+vec7: 1011010
+(Together with all of its 7 shifts)
+Degree of the node in the graph: 163
+
+vec1: 0000101
+vec2: 0010001
+vec3: 1101010
+vec4: 0010100
+vec5: 1111011
+vec6: 1101111
+vec7: 1111110
+(Together with all of its 7 shifts)
+Degree of the node in the graph: 163
+
+vec1: 0000011
+vec2: 0110101
+vec3: 1011001
+vec4: 0110110
+vec5: 1101100
+vec6: 1011010
+vec7: 1101111
+(Together with all of its 7 shifts)
+Degree of the node in the graph: 163
+
+vec1: 0000101
+vec2: 0001010
+vec3: 1010000
+vec4: 0001111
+vec5: 1011010
+vec6: 1010101
+vec7: 1011111
+(Together with all of its 7 shifts)
+Degree of the node in the graph: 163
+
+vec1: 0000011
+vec2: 0001001
+vec3: 0100001
+vec4: 0001010
+vec5: 0101000
+vec6: 0100010
+vec7: 0101011
+(Together with all of its 7 shifts)
+Degree of the node in the graph: 163
+
+vec1: 0001111
+vec2: 0100101
+vec3: 1010010
+vec4: 0101010
+vec5: 1110111
+vec6: 1011101
+vec7: 1111000
+(Together with all of its 7 shifts)
+Degree of the node in the graph: 163
+
+vec1: 0000101
+vec2: 0001010
+vec3: 1110011
+vec4: 0001111
+vec5: 1111001
+vec6: 1110110
+vec7: 1111100
+(Together with all of its 7 shifts)
+Degree of the node in the graph: 163
+
+vec1: 0000011
+vec2: 0001001
+vec3: 0010001
+vec4: 0001010
+vec5: 0011000
+vec6: 0010010
+vec7: 0011011
+(Together with all of its 7 shifts)
+Degree of the node in the graph: 163
+
+vec1: 0001001
+vec2: 0100010
+vec3: 1010111
+vec4: 0101011
+vec5: 1110101
+vec6: 1011110
+vec7: 1111100
+(Together with all of its 7 shifts)
+Degree of the node in the graph: 163
+
+vec1: 0000001
+vec2: 0000010
+vec3: 0000100
+vec4: 0000011
+vec5: 0000110
+vec6: 0000101
+vec7: 0000111
+(Together with all of its 7 shifts)
+Degree of the node in the graph: 163
+
+vec1: 0000011
+vec2: 0000101
+vec3: 1111000
+vec4: 0000110
+vec5: 1111101
+vec6: 1111011
+vec7: 1111110
+(Together with all of its 7 shifts)
+Degree of the node in the graph: 163
+
+vec1: 0000011
+vec2: 0101000
+vec3: 1010101
+vec4: 0101011
+vec5: 1111101
+vec6: 1010110
+vec7: 1111110
+(Together with all of its 7 shifts)
+Degree of the node in the graph: 163
+
+vec1: 0000011
+vec2: 0000101
+vec3: 0001001
+vec4: 0000110
+vec5: 0001100
+vec6: 0001010
+vec7: 0001111
+(Together with all of its 7 shifts)
+Degree of the node in the graph: 163
+
+vec1: 0000011
+vec2: 0101001
+vec3: 1010100
+vec4: 0101010
+vec5: 1111101
+vec6: 1010111
+vec7: 1111110
+(Together with all of its 7 shifts)
+Degree of the node in the graph: 163
+
+vec1: 0000011
+vec2: 0011000
+vec3: 1101101
+vec4: 0011011
+vec5: 1110101
+vec6: 1101110
+vec7: 1110110
+(Together with all of its 7 shifts)
+Degree of the node in the graph: 163
+
+vec1: 0000011
+vec2: 0001100
+vec3: 0110000
+vec4: 0001111
+vec5: 0111100
+vec6: 0110011
+vec7: 0111111
+(Together with all of its 7 shifts)
+Degree of the node in the graph: 163
+
+vec1: 0000001
+vec2: 0110110
+vec3: 1011010
+vec4: 0110111
+vec5: 1101100
+vec6: 1011011
+vec7: 1101101
+(Together with all of its 7 shifts)
+Degree of the node in the graph: 163
+
+vec1: 0000011
+vec2: 0010001
+vec3: 1000100
+vec4: 0010010
+vec5: 1010101
+vec6: 1000111
+vec7: 1010110
+(Together with all of its 7 shifts)
+Degree of the node in the graph: 163
+
+vec1: 0000001
+vec2: 0011110
+vec3: 1100110
+vec4: 0011111
+vec5: 1111000
+vec6: 1100111
+vec7: 1111001
+(Together with all of its 7 shifts)
+Degree of the node in the graph: 163
+
+vec1: 0010011
+vec2: 0100110
+vec3: 1001001
+vec4: 0110101
+vec5: 1101111
+vec6: 1011010
+vec7: 1111100
+(Together with all of its 7 shifts)
+Degree of the node in the graph: 163
